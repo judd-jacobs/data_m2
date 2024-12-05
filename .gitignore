@@ -162,4 +162,7 @@ cython_debug/
 #.idea/
 
 archive.zip
+week-2.ipynb
+ks-projects-201801.csv
+archive
 .DS_Store
